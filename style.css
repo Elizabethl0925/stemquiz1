@@ -162,3 +162,24 @@ body {
   }
 
 }
+
+.gallery {
+  padding: 40px 0;
+}
+
+.chart {
+  margin: 20px 0;
+}
+
+.chart img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #ddd;
+}
+
+figcaption {
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #555;
+}
